@@ -1,0 +1,9 @@
+Package: rgbtohexr
+Version: 1.0.0.0
+Section: Utilities
+Priority: optional
+Architecture: amd64
+Essential: no
+Installed-Size: 4116
+Maintainer: https://github.com/Lateralus138/rgbtohexr
+Description: Convert decimal red, green, and blue colors to hexadecimal format.

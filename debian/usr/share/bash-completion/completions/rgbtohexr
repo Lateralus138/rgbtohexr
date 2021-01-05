@@ -1,0 +1,3 @@
+rgbtohexr_list=( -u --upper -t --html -x --hex -h --help )
+complete -W "$(printf '%s\n' "${rgbtohexr_list[@]}")" rgbtohexr
+
