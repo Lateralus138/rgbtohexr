@@ -9,6 +9,18 @@
 
 <a href="#file-links"><img style="position: relative;z-index: 2;" align="top" alt="Skip To Files" src='./docs/media/misc/skiptofiles.png' width="144" height="40"></a>
 
+---
+
+**IMPORTANT NOTE**
+
+<details>
+<summary>Under Construction</summary>
+This project will be completely re-structured OR possibly re-written in C++.
+This program still works fine, but this workflow is horrible and I can personally do a better job in C++.
+</details>
+
+---
+
  - [RGBToHexR](#rgbtohexr)
 	- [About](#about)
 		- [Description](#description)
